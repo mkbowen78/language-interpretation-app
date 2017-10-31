@@ -1,0 +1,25 @@
+{
+  "name": "language-interpretation-app",
+  "version": "1.0.0",
+  "description": "LIRI Student App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkbowen78/language-interpretation-app.git"
+  },
+  "keywords": [
+    "liri",
+    "npm",
+    "json",
+    "practice"
+  ],
+  "author": "Kevin Bowen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkbowen78/language-interpretation-app/issues"
+  },
+  "homepage": "https://github.com/mkbowen78/language-interpretation-app#readme"
+}
