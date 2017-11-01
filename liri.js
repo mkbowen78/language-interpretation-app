@@ -1,3 +1,4 @@
+var fs = require("fs");
 //Get data from keys.js
 var keys = require('./keys.js');
 var request = require('request');
